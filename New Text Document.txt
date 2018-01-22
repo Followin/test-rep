@@ -1,2 +1,3 @@
 first changes
 new master changes
+feature changes
