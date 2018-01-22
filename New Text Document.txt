@@ -1,3 +1,4 @@
 first changes
 new master changes
 feature changes
+second feature changes
